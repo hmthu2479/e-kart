@@ -1,7 +1,7 @@
 /*
 Theme Name: 	   Shopire
 Text Domain: 	   shopire
-Version:            1.0.38
+Version:            1.0.39
 Tested up to:       6.8
 Requires at least:  4.7
 Requires PHP:       5.6
@@ -152,4 +152,5 @@ with others.
 a.wp-block-button__link:hover, 
 a.wp-block-button__link:focus {
     color: #fff;
+    text-decoration: none;
 }
